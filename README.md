@@ -5,7 +5,7 @@
 I build production-oriented machine learning and data systems, with a focus on
 Generative AI, RAG, NLP, distributed data processing, and scalable ML pipelines.
 
-My work spans the full ML lifecycle — from data ingestion and feature engineering
+My work spans the full ML lifecycle from data ingestion and feature engineering
 to model development, evaluation, deployment, and production integration.
 
 ## 🔧 What I Work With
